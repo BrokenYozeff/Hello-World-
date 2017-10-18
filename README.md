@@ -12,5 +12,5 @@ Lets party!
 1. part1
 2. part2
 3. part3
-  2. 3a
-  3. 3b
+* 3a
+* 3b
