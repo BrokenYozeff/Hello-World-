@@ -8,9 +8,9 @@ Lets party!
 <br>
 ![Beans](/IMG_9506.JPG)
 
-###lists
+### lists
 1. part1
-1. part2
-1. part3
-  1. 3a
-  1. 3b
+2. part2
+3. part3
+  2. 3a
+  3. 3b
