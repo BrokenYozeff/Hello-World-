@@ -6,4 +6,4 @@ sup dogs
 
 Lets party!
 <br>
-![beans](/IMG_9506.JPG)
+![Beans](/IMG_9506.JPG)
